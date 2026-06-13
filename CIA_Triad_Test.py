@@ -5,8 +5,8 @@ from cryptography.fernet import Fernet
 key = Fernet.generate_key()
 cipher_suite = Fernet(key)
 
-text = b"Super Secret Message"
-cipher_text = cipher_suite.encrypt(text)
+text = "Super Secret Message from the CIA Triad Test"
+cipher_text = cipher_suite.encrypt(text.encode())
 print({f"Encrypted: {cipher_text}"})
 
 # Decrypt the cipher text
