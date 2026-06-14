@@ -1,0 +1,15 @@
+""" Detail list of companies structure and online visibilities"""
+
+Company_name = Sunshine Exhibition Service Nig Ltd,
+Industry = Event Space,
+Location = 56, Olowofela Road, Magboro, Ogun State,
+Website = Sunshineexbition.com.ng,
+Event_Covered = WAAS, FAB2026, PHARMA2026, WHX2026,....
+
+Company_name = CrowdStrike,
+Industry = Technology Space,
+Location = ONLINE BASED,
+Website = Crowdstrike.com,
+Services_Covered: "Identity Management Solution, End-to-end Infrastructure System, Cloud Configuration Solution, Cuttingedge Centralised Solution,....
+
+More companies coming soon ....
